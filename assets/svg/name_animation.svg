@@ -18,7 +18,6 @@
             C++, Python, Shell, Assembli
         </textPath>
     </text>
-    <!-- ----------------------------- -->
     <path id='path1'>
         <animate id='d0' attributeName='d' begin='0s;d1.end' dur='5s' values='m0,12 h0 ; m0,12 h500 ; m0,12 h0' keyTimes='0 ; 0.8 ; 1' />
     </path>
@@ -28,7 +27,6 @@
             MacOS, Ubuntu and Other Unix Based Operating Systems
         </textPath>
     </text>
-    <!-- ----------------------------- -->
     <path id='path2'>
         <animate id='d1' attributeName='d' begin='d0.end' dur='5s' values='m0,12 h0 ; m0,12 h500 ; m0,12 h0' keyTimes='0 ; 0.8 ; 1' />
     </path>
