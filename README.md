@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="./assets/Banner-2MP.png" width="500px">
+  <img src="./assets/Banner-2MP.png" style="max-width: 100%;" width="100%" height="auto">
 </p>
-
 <!--
 **RamtinKosari/RamtinKosari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
