@@ -1,14 +1,7 @@
 
-
 <p align="center" style="position: relative;">
   <img src="./assets/Banner-4MP.png" style="max-width: 100%;" width="100%" height="auto" loading="eager">
-  <div style="position: absolute; top: 0; left: 0;">
-    <svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
-      <rect x="10" y="10" width="80" height="80" style="fill: #ff0000;">
-        <animate attributeName="width" dur="2s" from="80" to="40" repeatCount="indefinite" />
-      </rect>
-    </svg>
-  </div>
+  <img src="./assets/svg/name_animation.svg">
 </p>
 <!--
 **RamtinKosari/RamtinKosari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
