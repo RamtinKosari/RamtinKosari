@@ -110,6 +110,7 @@
   <rect width="100%" height="100%" />
   <g class="wrapper">
     <g class="triangle-canvas">
+      <!-- <polygon class="triangle triangle-1" points="759,132 759,650 241,650 241,132" /> -->
       <polygon class="triangle triangle-1" points="500,200 759,650 241,650" />
       <polygon class="triangle triangle-2" points="500,200 759,650 241,650" />
       <polygon class="triangle triangle-3" points="500,200 759,650 241,650" />
