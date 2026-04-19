@@ -31,7 +31,7 @@
     .triangle {
       fill: none;
       stroke: #8ff;
-      stroke-width: 37;
+      stroke-width: 20;
       transform-origin: center center;
       animation: triangle-animation 10s linear infinite;
     }
@@ -102,7 +102,7 @@
         opacity: 1;
       }
       100%{
-        transform: scale(-2.0) rotate(90deg);
+        transform: scale(-1.612) rotate(73deg);
         opacity: 0;
       }
     }
