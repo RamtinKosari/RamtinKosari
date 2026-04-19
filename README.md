@@ -13,7 +13,7 @@
 > *"Even the tiniest of actions can change the future."*  
 > — *Casey Newton*, *Tomorrowland (2015)*
 
-> *"I'd give anything to hear you say it one more time, That the universe was made just to be seen by my eyes."*  
-> — *Sleeping at Last*, *Saturn*
+<!-- > *"I'd give anything to hear you say it one more time, That the universe was made just to be seen by my eyes."*  
+> — *Sleeping at Last*, *Saturn* -->
 
-If you want to see satellite view of places where I've been finding Julibrissin trees, open this [link](https://ramtinkosari.github.io/Julibrissin/map.html). Also [here](https://github.com/RamtinKosari/Julibrissin) is related repo
+<!-- If you want to see satellite view of places where I've been finding Julibrissin trees, open this [link](https://ramtinkosari.github.io/Julibrissin/map.html). Also [here](https://github.com/RamtinKosari/Julibrissin) is related repo -->
